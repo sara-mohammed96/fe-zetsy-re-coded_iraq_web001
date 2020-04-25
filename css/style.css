@@ -14,7 +14,24 @@ body {
 	width: 960px;
 	margin: 0 auto;
 	background: #fff;
-	padding: 0 45px 20px;
+	padding: 5px 45px 20px;
+	margin-top:0;
 }
 
 /* Write all remaining styles here */
+.main{
+  color:gray;
+}
+
+.pic{
+  border:5px solid gray;
+}
+h1{
+  font-size: 60px;
+}
+.foot{
+  text-align: right;
+}
+.b{
+  border: 5px solid gray;
+}
